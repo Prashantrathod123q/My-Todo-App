@@ -1,0 +1,19 @@
+.TodoList {
+  width: 100%;
+}
+
+.actions {
+  text-align: right;
+}
+
+.task {
+  text-align: left;
+}
+
+tr {
+  border: 2px groove rosybrown;
+}
+
+th {
+  text-align: left;
+}

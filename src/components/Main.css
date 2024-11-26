@@ -1,0 +1,12 @@
+.Main {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.content {
+  border: solid 5px #003153;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #f0f0ff;
+  font-size: 1.2em;
+}
